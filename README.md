@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-JS
-v.1
+# Tic-Tac-Toe-JS 
+v.1 - LEDION KUKAJ / BOOTCAMP 2021
